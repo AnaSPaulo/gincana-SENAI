@@ -27,9 +27,9 @@
     </section>
 
     <section class="imagens">
-        <div class="img-box">Imagem 1</div>
-        <div class="img-box">Imagem 2</div>
-        <div class="img-box">Imagem 3</div>
+        <div class="img-box"><img width= "200px" src="Assets/img/senai1.jpeg" alt=""></div>
+        <div class="img-box"><img width= "200px" src="Assets/img/senailogo.jpg" alt=""></div>
+        <div class="img-box"><img width= "200px" src="Assets/img/senai2.png" alt=""></div>
     </section>
 
     <section class="acoes">
