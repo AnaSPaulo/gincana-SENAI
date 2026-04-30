@@ -14,7 +14,7 @@
             <li><a href="index.php">Início</a></li>
             <li><a href="turmas.php">Turmas</a></li>
             <li><a href="jogos.php">Jogos</a></li>
-            <li><a href="classificacao.php">Classificação</a></li>
+            <li><a href="classificação.php">Classificação</a></li>
         </ul>
     </nav>
 </header>
