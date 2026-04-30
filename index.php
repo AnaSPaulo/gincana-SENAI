@@ -35,7 +35,7 @@
     <section class="acoes">
         <a href="turmas.php"><button>Cadastrar Turmas</button></a>
         <a href="jogos.php"><button>Cadastrar Jogos</button></a>
-        <a href="classificacao.php"><button>Ver Classificação</button></a>
+        <a href="classificação.php"><button>Ver Classificação</button></a>
     </section>
 
 </main>
