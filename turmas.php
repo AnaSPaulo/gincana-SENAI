@@ -47,7 +47,7 @@
 </main>
 
 <footer>
-    <p>© 2026 Gincana SENAI</p>
+    <p>© Gincana SENAI 2026 | Todos os direitos reservados</p>
 </footer>
 
 </body>
